@@ -27,6 +27,9 @@ Follow these steps to build and run the Auction House project:
 - Ensure you have the [.NET SDK](https://dotnet.microsoft.com/download) installed. You can check if it’s installed by running:
   ```bash
   dotnet --version
+3. ** Build the Project:
+   ```bash
+   dotnet build
 3. ** Run the Project:
    ```bash
    dotnet run
