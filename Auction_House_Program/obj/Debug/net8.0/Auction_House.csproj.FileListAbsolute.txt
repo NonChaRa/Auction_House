@@ -1,0 +1,14 @@
+/Users/chanon/Desktop/C#-work/Assessment-2/Auction_House/obj/Debug/net8.0/Auction_House.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chanon/Desktop/C#-work/Assessment-2/Auction_House/obj/Debug/net8.0/Auction_House.AssemblyInfoInputs.cache
+/Users/chanon/Desktop/C#-work/Assessment-2/Auction_House/obj/Debug/net8.0/Auction_House.AssemblyInfo.cs
+/Users/chanon/Desktop/C#-work/Assessment-2/Auction_House/obj/Debug/net8.0/Auction_House.csproj.CoreCompileInputs.cache
+/Users/chanon/Desktop/C#-work/Assessment-2/Auction_House/bin/Debug/net8.0/Auction_House
+/Users/chanon/Desktop/C#-work/Assessment-2/Auction_House/bin/Debug/net8.0/Auction_House.deps.json
+/Users/chanon/Desktop/C#-work/Assessment-2/Auction_House/bin/Debug/net8.0/Auction_House.runtimeconfig.json
+/Users/chanon/Desktop/C#-work/Assessment-2/Auction_House/bin/Debug/net8.0/Auction_House.dll
+/Users/chanon/Desktop/C#-work/Assessment-2/Auction_House/bin/Debug/net8.0/Auction_House.pdb
+/Users/chanon/Desktop/C#-work/Assessment-2/Auction_House/obj/Debug/net8.0/Auction_House.dll
+/Users/chanon/Desktop/C#-work/Assessment-2/Auction_House/obj/Debug/net8.0/refint/Auction_House.dll
+/Users/chanon/Desktop/C#-work/Assessment-2/Auction_House/obj/Debug/net8.0/Auction_House.pdb
+/Users/chanon/Desktop/C#-work/Assessment-2/Auction_House/obj/Debug/net8.0/Auction_House.genruntimeconfig.cache
+/Users/chanon/Desktop/C#-work/Assessment-2/Auction_House/obj/Debug/net8.0/ref/Auction_House.dll
